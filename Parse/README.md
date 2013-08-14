@@ -4,16 +4,13 @@ Parse
 ## Objects
 
 ### Data Types
-| Types |
-|--------|
-| NSNumber |
-| NSString |
-| NSDate |
-| NSData |
-| NSArray |
-| NSDictionary |
+| Types | |
+|--------|----|
+| `NSNumber` | `NSString` |
+| `NSDate` | `NSData` |
+| `NSArray` | `NSDictionary` |
 
-:bangbang: Not recommend store large binaray using `NSData` on `PFObject` (which need less than 128 KB).
+> :bangbang: Not recommend store large binaray using `NSData` on `PFObject` (which need less than 128 KB).
 
 
 
