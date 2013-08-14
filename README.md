@@ -1,9 +1,9 @@
 Notes
 ==========
 
-:o: Parse [[site](http://www.parse.com)]
+:o: Parse [[site](http://www.parse.com)] [[note](https://github.com/vincent-efwuhn/notes/tree/master/Parse#parse)]
 
-:o: Facebook
+:o: Facebook [[note](https://github.com/vincent-efwuhn/notes/tree/master/Facebook#facebook)]
 
 -----
 
