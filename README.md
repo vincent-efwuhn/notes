@@ -17,4 +17,4 @@ Notes
 -----
 
 ### StackMob
-* **OK:** CR of CRUD
+* **OK:** CR of CRUD, upload image to AWS S3.
