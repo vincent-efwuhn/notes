@@ -17,3 +17,4 @@ Notes
 -----
 
 ### StackMob
+* **OK:** CR of CRUD
