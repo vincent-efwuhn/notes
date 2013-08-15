@@ -5,7 +5,7 @@ Notes
 
 :o: Facebook [[note](https://github.com/vincent-efwuhn/notes/tree/master/Facebook#facebook)]
 
-:o: StackMobs 
+:o: StackMobs [[note](https://github.com/vincent-efwuhn/notes/tree/master/StackMob#stackmob)]
 
 -----
 
