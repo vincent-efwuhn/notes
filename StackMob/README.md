@@ -26,3 +26,8 @@ StackMob
 [[[SMLocationManager sharedInstance] locationManager] stopUpdatingLocation];
 
 ```
+
+……
+
+### Facebook 
+[[source](https://developer.stackmob.com/ios-sdk/developer-guide#Facebook)]
