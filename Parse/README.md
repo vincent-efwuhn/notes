@@ -33,5 +33,6 @@ You can …
 * Limit the result by using `whereKey:nearGeoPoint:withinMiles`, `whereKey:nearGeoPoint:withinKilometers`, and `whereKey:nearGeoPoint:withinRadians`.
 * or limit in the geo box using `whereKey:withinGeoBoxFromSouthwest:toNortheast:`.
 
-
-
+## User
+* Sign up
+* Login
