@@ -7,6 +7,8 @@ Notes
 
 :o: StackMobs [[note](https://github.com/vincent-efwuhn/notes/tree/master/StackMob#stackmob)]
 
+:o: Kinvey [[note](https://github.com/vincent-efwuhn/notes/tree/master/Kinvey#kinvey)]
+
 -----
 
 ###Parse
