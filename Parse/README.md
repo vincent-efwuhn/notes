@@ -17,6 +17,26 @@ Parse
 * **Get objectId** use `valueForKey:@"objectId"` of object to access. [[source](https://www.parse.com/questions/getting-objectid-always-null)]
 * **Offline** use `saveEventually` and `deleteEventually`, Parse SDK will handle it. [[source](https://parse.com/docs/ios_guide#objects-offline/iOS)]
 
+### Subclassing PFObject
+
+#### Original:
+See [subclasses](https://www.parse.com/docs/ios_guide#subclasses/iOS)
+```objc
+PFObject *shield = [PFObject objectWithClassName:@"Armor"];
+[shield setObject:@"Wooden Shield" forKey:@"displayName"];
+[shield setObject:[NSNumber numberWithBool:NO] forKey:@"fireProof"];
+[object setObject:[NSNumber numberWithInt:50] forKey:@"rupees"];
+```
+
+#### After:
+
+```objc
+Armor *shield = [Armor object];
+shield.displayName = @"Wooden Shield";
+shield.fireProof = NO;
+shield.rupees = 50;
+```
+
 
 ## Queries
 
