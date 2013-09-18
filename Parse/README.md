@@ -18,9 +18,11 @@ Parse
 * **Offline** use `saveEventually` and `deleteEventually`, Parse SDK will handle it. [[source](https://parse.com/docs/ios_guide#objects-offline/iOS)]
 
 ### Subclassing PFObject
+You can *declare your own methods* to do more complicated logic.
+further see [subclasses](https://www.parse.com/docs/ios_guide#subclasses/iOS)
 
 #### Original:
-See [subclasses](https://www.parse.com/docs/ios_guide#subclasses/iOS)
+
 ```objc
 PFObject *shield = [PFObject objectWithClassName:@"Armor"];
 [shield setObject:@"Wooden Shield" forKey:@"displayName"];
