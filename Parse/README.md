@@ -60,4 +60,12 @@ You can …
 * Login
 
 ### Roles
-the `PFRole` Object
+
+using the `PFRole` Object - implement ACLs
+class doc -> [`PFRole`](https://www.parse.com/docs/osx/api/Classes/PFRole.html)
+
+## IAP
+
+to setup in-app-purchase, see [guide](https://developer.apple.com/library/ios/technotes/tn2259/_index.html) from apple.
+
+
