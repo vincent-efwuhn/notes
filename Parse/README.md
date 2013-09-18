@@ -58,3 +58,6 @@ You can …
 ## User
 * Sign up
 * Login
+
+### Roles
+the `PFRole` Object
